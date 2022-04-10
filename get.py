@@ -58,7 +58,7 @@ def getdata():
 						type = get['type']
 						site_admin = get['site_admin']
 						name = get['name']
-						company = get['name']
+						company = get['company']
 						blog = get['blog']
 						location = get['location']
 						email = get['email']
